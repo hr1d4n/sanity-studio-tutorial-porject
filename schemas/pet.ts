@@ -13,5 +13,10 @@ export default {
       type: 'string',
       title: 'Creature',
     },
+    {
+      name: 'howl',
+      type: 'string',
+      title: 'Howling',
+    },
   ],
 }
